@@ -2,7 +2,7 @@
 [llm]
 model = "claude-3-5-sonnet"
 base_url = "https://api.openai.com/v1"
-api_key = "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"
+api_key = "sk-"
 max_tokens = 4096
 temperature = 0.0
 
